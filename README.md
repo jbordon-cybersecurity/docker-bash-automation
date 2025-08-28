@@ -44,6 +44,7 @@ Start containers and load files:
 
 ## Project Structure
 
+
 house-of-the-dockers/
 ├── step1.sh                # Create containers and copy files
 ├── step2.sh                # Process files and generate the final chapter
@@ -54,6 +55,7 @@ house-of-the-dockers/
 ├── FINAL_CHAPTER.txt       # Output final chapter
 ├── README.md               # Documentation
 └── LICENSE                 # License file
+
 
 ## License
 This project is public for demonstration and educational purposes.
