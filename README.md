@@ -45,11 +45,8 @@ chmod +x step1.sh step2.sh user_menu.sh
 
 ./user_menu.sh
 
-###
 
-## 📂 Project Structure
-
- ## 📂 Project Structure
+### Project Structure
 ```text
 house-of-the-dockers/
 ├── step1.sh              # Create containers and copy files
