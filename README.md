@@ -34,6 +34,7 @@ cd house-of-the-dockers
 chmod +x step1.sh step2.sh user_menu.sh
 
 ###3️⃣ Run the setup
+
 ./step1.sh
 
 
