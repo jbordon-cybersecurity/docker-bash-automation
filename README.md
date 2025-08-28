@@ -37,7 +37,6 @@ chmod +x step1.sh step2.sh user_menu.sh
 
 ./step1.sh
 
-
 ### 4️⃣ Process and generate the final chapter
 
 ./step2.sh
