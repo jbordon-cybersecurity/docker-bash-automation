@@ -47,6 +47,28 @@ chmod +x step1.sh step2.sh user_menu.sh
 
 ###
 
+## 📂 Project Structure
+
+house-of-the-dockers/
+
+├── step1.sh              # Create containers and copy files
+
+├── step2.sh              # Process files and generate the final chapter
+
+├── user_menu.sh          # Interactive menu for editing/viewing the book
+
+├── sorted_docker1.txt    # Sample sorted text data
+
+├── sorted_docker2.txt    # Sample sorted text data
+
+├── sorted_docker3.txt    # Sample sorted text data
+
+├── FINAL_CHAPTER.txt     # Output final chapter
+
+├── README.md             # Documentation
+
+###
+
 This project is public for demonstration and educational purposes.
 
 All rights reserved © 2025 Jose Bordon.
