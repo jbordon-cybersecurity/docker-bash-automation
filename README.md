@@ -1,5 +1,4 @@
 # 🐳 House of the Dockers
-
 A **Bash + Docker automation project** for processing text files across multiple containers.  
 Created as part of a scripting and automation module to practice container management, file handling, and workflow automation.
 
@@ -22,31 +21,27 @@ Created as part of a scripting and automation module to practice container manag
 
 ---
 
-##  How to Run
+## 🚀 How to Run
 
-###
-1️⃣ Clone the repository
-
+### 1️⃣ Clone the repository
 git clone https://github.com/YOUR-USERNAME/house-of-the-dockers.git
 cd house-of-the-dockers
 
-2️⃣ Make the scripts executable
-
+### 2️⃣ Make the scripts executable
 chmod +x step1.sh step2.sh user_menu.sh
 
-3️⃣ Run the setup
-Start containers and load files:
-
-
+###3️⃣ Run the setup
 ./step1.sh
-4️⃣ Process and generate the final chapter
 
+### 4️⃣ Process and generate the final chapter
 ./step2.sh
-5️⃣ Open the interactive menu
 
+### 5️⃣ Open the interactive menu
 ./user_menu.sh
 
-📂 Project Structure
+###
+
+## 📂 Project Structure
 
 house-of-the-dockers/
 ├── step1.sh              # Create containers and copy files
@@ -58,6 +53,7 @@ house-of-the-dockers/
 ├── FINAL_CHAPTER.txt     # Output final chapter
 ├── README.md             # Documentation
 
-## License
+###
+
 This project is public for demonstration and educational purposes.
 All rights reserved © 2025 Jose Bordon.
