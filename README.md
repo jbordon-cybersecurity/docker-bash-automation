@@ -27,3 +27,37 @@ Created as part of a scripting and automation module to practice container manag
 ```bash
 git clone https://github.com/YOUR-USERNAME/house-of-the-dockers.git
 cd house-of-the-dockers
+2️⃣ Make the scripts executable
+bash
+Copiar código
+chmod +x step1.sh step2.sh user_menu.sh
+3️⃣ Run the setup
+Start containers and load files:
+
+bash
+Copiar código
+./step1.sh
+4️⃣ Process and generate the final chapter
+bash
+Copiar código
+./step2.sh
+5️⃣ Open the interactive menu
+bash
+Copiar código
+./user_menu.sh
+📂 Project Structure
+text
+Copiar código
+house-of-the-dockers/
+├── step1.sh              # Create containers and copy files
+├── step2.sh              # Process files and generate the final chapter
+├── user_menu.sh          # Interactive menu for editing/viewing the book
+├── sorted_docker1.txt    # Sample sorted text data
+├── sorted_docker2.txt    # Sample sorted text data
+├── sorted_docker3.txt    # Sample sorted text data
+├── FINAL_CHAPTER.txt     # Output final chapter
+├── README.md             # Documentation
+└── LICENSE               # License file
+📜 License
+This project is public for demonstration and educational purposes.
+All rights reserved © 2025 Jose Bordon.
