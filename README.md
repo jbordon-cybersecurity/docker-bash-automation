@@ -45,14 +45,15 @@ Start containers and load files:
 ## Project Structure
 
 house-of-the-dockers/
-├── step1.sh – Create containers and copy files
-├── step2.sh – Process files and generate the final chapter
-├── user_menu.sh – Interactive menu for editing/viewing the book
-├── sorted_docker1.txt – Sample sorted text data
-├── sorted_docker2.txt – Sample sorted text data
-├── sorted_docker3.txt – Sample sorted text data
-├── FINAL_CHAPTER.txt – Output final chapter
-├── README.md – Documentation
+├── step1.sh                # Create containers and copy files
+├── step2.sh                # Process files and generate the final chapter
+├── user_menu.sh            # Interactive menu for editing/viewing the book
+├── sorted_docker1.txt      # Sample sorted text data
+├── sorted_docker2.txt      # Sample sorted text data
+├── sorted_docker3.txt      # Sample sorted text data
+├── FINAL_CHAPTER.txt       # Output final chapter
+├── README.md               # Documentation
+└── LICENSE                 # License file
 
 ## License
 This project is public for demonstration and educational purposes.
