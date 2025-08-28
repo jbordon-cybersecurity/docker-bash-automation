@@ -24,7 +24,7 @@ Created as part of a scripting and automation module to practice container manag
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/YOUR-USERNAME/house-of-the-dockers.git
+git clone https://github.com/jbordon-cybersecurity/docker-bash-automation.git
 cd house-of-the-dockers
 
 ### 2️⃣ Make the scripts executable
