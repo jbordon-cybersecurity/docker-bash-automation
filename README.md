@@ -1,10 +1,10 @@
-# 🐳 House of the Dockers
+### House of the Dockers
 A **Bash + Docker automation project** for processing text files across multiple containers.  
 Created as part of a scripting and automation module to practice container management, file handling, and workflow automation.
 
 ---
 
-## ✨ Features
+### Features
 - Start and manage multiple Docker containers.
 - Copy files from host to containers automatically.
 - Sort text files by character length and extract meaningful content.
@@ -13,7 +13,7 @@ Created as part of a scripting and automation module to practice container manag
 
 ---
 
-## 🛠 Skills Demonstrated
+### Skills Demonstrated
 - **Bash scripting**: automation, loops, and user input.  
 - **Docker**: container management and file operations.  
 - **Text processing**: using `awk`, `sed`, and `wc` for data extraction.  
@@ -21,7 +21,7 @@ Created as part of a scripting and automation module to practice container manag
 
 ---
 
-## 🚀 How to Run
+### How to Run
 
 ### 1️⃣ Clone the repository
 
@@ -46,7 +46,7 @@ chmod +x step1.sh step2.sh user_menu.sh
 ./user_menu.sh
 
 
-### Project Structure
+### Project Structure 
 ```text
 house-of-the-dockers/
 ├── step1.sh              # Create containers and copy files
@@ -58,8 +58,6 @@ house-of-the-dockers/
 ├── FINAL_CHAPTER.txt     # Output final chapter
 ├── README.md             # Documentation
 
-
-###
 
 This project is public for demonstration and educational purposes.
 
