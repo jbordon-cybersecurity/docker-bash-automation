@@ -24,22 +24,29 @@ Created as part of a scripting and automation module to practice container manag
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the repository
+
 git clone https://github.com/jbordon-cybersecurity/docker-bash-automation.git
+
 cd house-of-the-dockers
 
 ### 2️⃣ Make the scripts executable
+
 chmod +x step1.sh step2.sh user_menu.sh
 
 ###3️⃣ Run the setup
 ./step1.sh
 
+
 ### 4️⃣ Process and generate the final chapter
+
 ./step2.sh
 
 ### 5️⃣ Open the interactive menu
+
 ./user_menu.sh
 
 ###
 
 This project is public for demonstration and educational purposes.
+
 All rights reserved © 2025 Jose Bordon.
